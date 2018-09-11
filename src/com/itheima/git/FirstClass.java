@@ -13,5 +13,6 @@ public class FirstClass {
         System.out.println("333333333333333");
         System.out.println("333333333333333");
 		String s = "李建坤";
+		String s = "李儿子";
     }
 }
